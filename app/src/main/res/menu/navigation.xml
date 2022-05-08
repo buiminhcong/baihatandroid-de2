@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mThongTin"
+          android:title="Thông tin"
+          android:icon="@drawable/ic_today"
+    />
+    <item android:id="@+id/mDanhSach"
+        android:title="Danh Sách"
+        android:icon="@drawable/ic_history"
+        />
+    <item android:id="@+id/mSearch"
+        android:title="Thống kê"
+        android:icon="@drawable/ic_statis"
+        />
+</menu>

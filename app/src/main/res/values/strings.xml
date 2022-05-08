@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LuyenTapSql2</string>
+    <string-array name="album">
+        <item>Nỗi nhớ ngây dại</item>
+        <item>Đây là mơ</item>
+        <item>Tuổi học trò</item>
+        <item>Tuổi trẻ</item>
+    </string-array>
+
+    <string-array name="theloai">
+        <item>Nhạc trẻ</item>
+        <item>Nhạc vàng</item>
+        <item>Nhạc đỏ</item>
+    </string-array>
+</resources>
